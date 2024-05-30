@@ -3,9 +3,9 @@
 <h1 align="center">Hola 👋, soy Jorge</h1>
 
 <div align="center">
-    <a href="https://github.com/iesedobleac"><img src="https://komarev.com/ghpvc/?username=iesedobleac&color=blue&label=Visitas+a+mi+perfil&abbreviated=true&style=flat" alt="Visit counters"></a>
-    <a href="https://github.com/iesedobleac"><img src="https://img.shields.io/github/followers/iesedobleac?style=social&label=Seguidores&logo=github" alt="GitHub followers"></a>
-    <a href="https://twitter.com/iesedobleac"><img src="https://img.shields.io/twitter/follow/iesedobleac?style=social&logo=x&label=S%C3%ADgueme%20en%20X&color=blue" alt="X Follow"></a>
+    <a href="https://github.com/jorgealegrerubio"><img src="https://komarev.com/ghpvc/?username=iesedobleac&color=blue&label=Visitas+a+mi+perfil&abbreviated=true&style=flat" alt="Visit counters"></a>
+    <a href="https://github.com/jorgealegrerubio"><img src="https://img.shields.io/github/followers/iesedobleac?style=social&label=Seguidores&logo=github" alt="GitHub followers"></a>
+    <a href="https://x.com/jalegre_ios"><img src="https://img.shields.io/twitter/follow/iesedobleac?style=social&logo=x&label=S%C3%ADgueme%20en%20X&color=blue" alt="X Follow"></a>
 </div>
 
 ## 🚀 &nbsp;Algo acerca de mi
