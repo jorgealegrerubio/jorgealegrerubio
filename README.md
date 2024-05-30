@@ -1,4 +1,4 @@
-<img src="/images/header/coding_room_at_night.gif" alt="image" width="100%" height="auto">
+<img src="coding_room_at_night.gif" alt="image" width="100%" height="auto">
 
 <h1 align="center">Hola 👋, soy Jorge</h1>
 
