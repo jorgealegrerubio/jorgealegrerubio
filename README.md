@@ -11,10 +11,11 @@
 ## 🚀 &nbsp;Algo acerca de mi
 
 
-- 📱 Desarrollador móvil **especializado en iOS**
-- ☀️ Trabajo desde Valencia
+- 📱 Desarrollador móvil **especializado en iOS** 
+- 🚀 Actualmente trabajo desarrollando apps en **Swift y SwiftUI** 
 - 💬 Puedes preguntarme acerca de **iOS**
 - 📫 Contacta conmigo en **jorgealegrerubio@gmail.com**
+- 📫 Mi LinkedIn!- [LinkedIn](https://www.linkedin.com/in/jorge-alegre-rubio-ab50771a8/) 
 
 &nbsp;
 
